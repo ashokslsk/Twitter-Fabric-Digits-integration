@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TwitterDigits</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="kit_digits">Digits</string>
+    <string name="user_id">User Id: %d</string>
+    <string name="token">Token: %s</string>
+    <string name="secret">Secret: %s</string>
+    <string name="find_your_friends">Find your friends</string>
+    <string name="no_friends_found">No friends found</string>
+    <string name="id_format">ID: %d</string>
+    <string name="you_have_new_friends">You have new friends</string>
+    <string name="clear_session">Clear Session</string>
+    <string name="verify_credentials">Verify Credentials</string>
+</resources>
